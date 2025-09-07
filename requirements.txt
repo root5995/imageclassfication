@@ -1,8 +1,9 @@
 ﻿streamlit
 tensorflow==2.11
 opencv-python
-numpy
+numpy==1.26.4
 matplotlib
 pillow
 
 scikit-image
+
